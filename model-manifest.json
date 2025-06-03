@@ -1,0 +1,170 @@
+{
+  "subject": [
+    {
+      "name": "model-00005-of-00006.safetensors",
+      "digest": {
+        "sha256": "ad7007b5aee76abab4561f757c586106d9ad934d0de9eec75f0d6211df6b2574"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model.safetensors.index.json",
+      "digest": {
+        "sha256": "51f3004b8d5b478473f26eb8cb5ac7e5aacc39938ad365f0c8933b18dfa9a158"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "tokenizer_config.json",
+      "digest": {
+        "sha256": "44cfcdddd4a037ef37cc426c4c26c3ed6f494f1d82dda3e1f73ff9efccfa0878"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "config.json",
+      "digest": {
+        "sha256": "0a13d8a96ac97a77871e10739669fd75cb1d7e2e403d5cd6ee0819233a30eff8"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model-00002-of-00006.safetensors",
+      "digest": {
+        "sha256": "2fb9cce7c157ae2383bb65c129be64bff0f9d39a2fc0692bae478d14ea0e3232"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "CODE_OF_CONDUCT.md",
+      "digest": {
+        "sha256": "539b1bfc810aa62738af95866bfe584d568b0dca71aebed0bd81db0bdaebade3"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "generation_config.json",
+      "digest": {
+        "sha256": "3c0aeb1af3855927b0cc6238651fb56b7727e2fa580528ab28ae31289da12fd6"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "LICENSE",
+      "digest": {
+        "sha256": "c49419617a6070bcb197cfe272f7007fdec3e790dbb529cb995473bd69c0bd51"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": ".gitattributes",
+      "digest": {
+        "sha256": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "SECURITY.md",
+      "digest": {
+        "sha256": "891c6326bdd8ea026af23af20fd7dd7167b666f4bd4f63cf22dfdef09d5e78b2"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "tokenizer.json",
+      "digest": {
+        "sha256": "98fe258b0c1e42a10a9c3b5692ba081d40c177da924800c4f034ad940f794ff9"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "README.md",
+      "digest": {
+        "sha256": "e19976fa3518e1041f90cf2627c96b4d2fa1d64273a9572dc8ac63e6f933ee26"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model-00003-of-00006.safetensors",
+      "digest": {
+        "sha256": "ab647f44ed3e8dda48e9004dad07cfdca3ce12e463b4e9f78c2421813100083c"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "special_tokens_map.json",
+      "digest": {
+        "sha256": "f1709cc2511788dd182569aa4071b845ac5df22a9424712dd7e456783be74be3"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "vocab.json",
+      "digest": {
+        "sha256": "23b80b3c4932a7733eb91487cb2fdbc56c5bd199a459128f538095a36dad5287"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model-00004-of-00006.safetensors",
+      "digest": {
+        "sha256": "d8a37c74492fcacc8b6ae4329b0391002e597df169d7b4c1e9024dc99b3f1a7d"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model-00006-of-00006.safetensors",
+      "digest": {
+        "sha256": "09f8f3d34d1610761ada4b6671f2a1971ed924dc636b964ebe26fb84efbdc3ce"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    },
+    {
+      "name": "model-00001-of-00006.safetensors",
+      "digest": {
+        "sha256": "ec6a22fa7bdb16f42be8ce5c08b36bacc0f3f865f2879cd364bb384413ada6b6"
+      },
+      "annotations": {
+        "actual_hash_algorithm": "file-sha256"
+      }
+    }
+  ],
+  "predicateType": "https://model_signing/Digests/v0.1",
+  "predicate": {
+    "unused": "Unused, just passed due to API requirements"
+  }
+}

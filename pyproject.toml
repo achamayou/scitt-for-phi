@@ -1,0 +1,25 @@
+[project]
+name = "scitt-for-phi"
+version = "0.1.0"
+description = "Demo scripts showing how SCITT can be used to make a Phi-4-Reasoning manifest transparent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cbor2>=5.4.6",
+    "ccf>=6.0.9",
+    "cwt>=3.0.0",
+    "huggingface-hub>=0.33.4",
+    "pyscitt>=0.11.2",
+]
+
+[project.scripts]
+intoto = "scitt_for_phi.intoto:main"
+verify = "scitt_for_phi.verify:main"
+staple_receipt = "scitt_for_phi.staple_receipt:main"
+print_cose = "scitt_for_phi.print_cose:main"
+
+[tool.uv]
+package = true
+
+[tool.setuptools]
+packages = ["scitt_for_phi"]

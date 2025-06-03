@@ -1,0 +1,5 @@
+export ACR_NAME=xraydemo
+export REGISTRY=xraydemo-bnasgxcyhkbfahfu.azurecr.io
+export REPO=scitt-for-phi
+export TAG=v0
+export IMAGE=$REGISTRY/$REPO:$TAG
